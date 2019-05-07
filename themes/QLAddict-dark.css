@@ -1,0 +1,35 @@
+h1 {
+    font-size: 16px;
+    color: #d47222;
+}
+ul.infoBar {
+    margin-bottom: 1em;
+}
+h1 a {
+    color: #d47222;
+    text-decoration: none;
+}
+
+h1 a:hover:before {
+    color: #d47222;
+}
+
+body {
+    background-color: #1e1e1e;
+    color: #eee;
+}
+
+table {
+    background-color: #1d1d1d;
+    font-size: 100%;
+}
+table, table td {
+    border-color: #aaa;
+}
+
+.time {
+    padding: .4em 1em;
+}
+.sub {
+    padding-left: .8em;
+}
